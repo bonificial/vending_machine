@@ -2,7 +2,8 @@
 
 Import the collection "Vending Machine.postman_collection.json" into postman
 
-1. Copy all the contents of the zip folder vending_machine_api into your pc
+1. Download the zip or `git clone https://github.com/bonificial/vending_machine.git` into your PC
+2. Extract the contents of the zip folder (if you downloaded the zip).
 
 2. CD into that folder
 
