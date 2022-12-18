@@ -1,0 +1,36 @@
+{
+    "items": {
+        "Coke 2": {
+            "quantity": 190,
+            "price": 450,
+            "updated_at": "2022-12-15T17:18:11.969Z"
+        },
+        "Sprite": {
+            "quantity": 190,
+            "price": 450,
+            "updated_at": "2022-12-18T08:05:21.842Z"
+        },
+        "Fanta": {
+            "quantity": 20,
+            "updated_at": "2022-12-15T17:47:32.139Z"
+        }
+    },
+    "coins": {
+        "1P": {
+            "quantity": 847,
+            "updated_at": "2022-12-18T08:00:30.169Z"
+        },
+        "50P": {
+            "quantity": 850,
+            "updated_at": "2022-12-15T19:05:42.772Z"
+        },
+        "50C": {
+            "quantity": 250,
+            "updated_at": "2022-12-15T19:05:42.772Z"
+        },
+        "100P": {
+            "quantity": 250,
+            "updated_at": "2022-12-18T08:17:18.236Z"
+        }
+    }
+}
